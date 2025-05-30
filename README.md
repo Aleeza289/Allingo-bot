@@ -1,0 +1,1 @@
+# Allingo-bot
