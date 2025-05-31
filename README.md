@@ -1,7 +1,8 @@
 # ALLINGO-BOT
 
-# 🧠 Master English Grammar with AI-Powered Examples, Practice Questions, and Tips!
+#  🧠 Master English Grammar with AI-Powered Examples, Practice Questions, and Tips!
 Englify is an AI-powered chatbot built using Python and Streamlit and powered by the DeepSeek R1 open-source AI model via OpenRouter API, making it lightweight and CPU-friendly. It helps users, especially students, learn English grammar through simple explanations, examples, Q&A, and multiple-choice questions.
+
 
 # 🎯 Features
 
@@ -17,19 +18,21 @@ Englify is an AI-powered chatbot built using Python and Streamlit and powered by
 
 ✅ No installation of heavy models – uses cloud-based OpenRouter
 
+
 # 💻 Tech Stack
-# Programming Language:
+
+Programming Language:
 
 Python 🐍
 
-# Frontend/UI:
+Frontend/UI:
 
 Streamlit
 
-# Model API:
+Model API:
 
 OpenRouter
 
-# AI Model:
+AI Model:
 
 deepseek/deepseek-r1-0528:free
