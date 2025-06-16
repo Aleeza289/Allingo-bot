@@ -1,7 +1,7 @@
 # ALLINGO-BOT
 
 #  🧠 Master English Grammar with AI-Powered Examples, Practice Questions, and Tips!
-Allngi Bot is an AI-powered chatbot built using Python and Streamlit and powered by the DeepSeek R1 open-source AI model via OpenRouter API, making it lightweight and CPU-friendly. It helps users, especially students, learn English grammar through simple explanations, examples, Q&A, and multiple-choice questions.
+Allingo Bot is an AI-powered chatbot built using Python and Streamlit and powered by the DeepSeek R1 open-source AI model via OpenRouter API, making it lightweight and CPU-friendly. It helps users, especially students, learn English grammar through simple explanations, examples, Q&A, and multiple-choice questions.
 
 
 # 🎯 Features
